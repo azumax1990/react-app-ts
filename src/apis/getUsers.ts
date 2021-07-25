@@ -1,5 +1,4 @@
 import { useCallback, useState } from "react";
-import { useHistory } from "react-router";
 import axios from "axios";
 
 import { User } from "../types/apis/user"; 
